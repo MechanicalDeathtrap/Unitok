@@ -1,8 +1,8 @@
 # Unitok
 
-<h3>--Семестровая работа по ОРИСу</h3> 
+<h3>Семестровая работа. Unitok - NFT маркетплейс</h3> 
   <br/>
-<a href="https://fixcode.ru/templates/html/unitok/"> Дизайн сайта </a>
+<a href="https://fixcode.ru/templates/html/unitok/" style="color: purple;"> Дизайн сайта </a>
 <br/>
-<a href="https://fixcode.ru/templates/html/unitok/"> Дизайн сайта </a>
+<a href="https://miro.com/app/board/uXjVNhP02qc=/"> Структура и карта сайта </a>
 
