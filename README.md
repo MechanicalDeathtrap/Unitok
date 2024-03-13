@@ -1,2 +1,4 @@
 # Unitok
-Oris semestrovka
+
+--Семестровая работа по ОРИСу--
+Дизайн - https://fixcode.ru/templates/html/unitok/
