@@ -4,7 +4,7 @@
   <br/>
 <a href="https://fixcode.ru/templates/html/unitok/"> Дизайн сайта </a>
 <br/>
-<a href="https://miro.com/app/board/uXjVNhP02qc=/"> Структура и карта сайта </a>
+<a href="https://docs.google.com/document/d/17TU-B8Cyg-mN4T39tKLn1kczbjlxlwYV22fYjFeUSgc/edit?usp=sharing"> Структура сайта и более подробное тех задание</a>
 <br/>
 <a href=""> Модель базы данных </a>
 
